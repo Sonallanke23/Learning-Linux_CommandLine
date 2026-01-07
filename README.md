@@ -1,1 +1,1 @@
-LEarning=Linux Commands
+Learning=Linux Commands
